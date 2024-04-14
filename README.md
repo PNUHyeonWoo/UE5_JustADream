@@ -4,7 +4,7 @@
 - 목적: 출시 목적으로 개발하였으나 데모 버전을 배포하며 마무리한 프로젝트입니다.
 - 개발 규모: 5인 개발
 - 개발 기간: 2024.01 ~ 2024.04
-- 빌드 다운로드 링크: [https://drive.google.com/file/d/11wqXEFNWmJgKAo4Zu47Rgwykyl--y6Au/view?usp=drive_link](https://drive.google.com/file/d/11wqXEFNWmJgKAo4Zu47Rgwykyl--y6Au/view?usp=drive_link)
+- 빌드 다운로드 링크: [https://drive.google.com/file/d/...](https://drive.google.com/file/d/11wqXEFNWmJgKAo4Zu47Rgwykyl--y6Au/view?usp=drive_link)
 - 게임 소개 링크: [https://woohyangwoo.tistory.com/77](https://woohyangwoo.tistory.com/77)
 
 ### 2. 팀 소개 및 역할
